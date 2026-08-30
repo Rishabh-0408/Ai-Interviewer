@@ -65,3 +65,7 @@ uploads/
 *.log
 *.bak
 *.tmp
+
+# ----- Firebase Service Account (sensitive credentials) -----
+firebase-service-account.json
+*-service-account.json
